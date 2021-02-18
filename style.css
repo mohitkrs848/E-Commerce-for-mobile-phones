@@ -1,0 +1,47 @@
+html,
+body {
+    height: 100%;
+}
+
+#search_bar {
+    width: 40%;
+}
+
+.mobile_name {
+    color: cornflowerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.mobile_cont {
+    background: scroll;
+    background-color: aquamarine;
+}
+
+#filters {
+    background-color: aquamarine;
+}
+
+#login_body {
+    background-image: url(img/login-cover.jpg);
+    width: 100%;
+    height: 100%;
+    border-image: stretch;
+}
+
+.mask {
+    font-size: large;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+}
+
+#signUp_body {
+    background-image: url(img/signup-cover.jpg);
+    width: 100%;
+    height: 100%;
+    border-image: stretch;
+}
+
+#form_body {
+    background-color: blanchedalmond;
+}
